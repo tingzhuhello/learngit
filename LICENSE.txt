@@ -1,0 +1,3 @@
+python java javascrip 
+sqlserver mysql oracle
+git 
